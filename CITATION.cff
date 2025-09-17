@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the following metadata."
+type: dataset
+title: "RSG-RFR-JRS"
+authors:
+  - given-names: "Zhongqiang"
+    family-names: "Wu"
+    email: "wuzhongqiang2008@qq.com"
+    affiliation: ""Hainan Normal University""
+identifiers:
+  - type: url
+    value: "https://github.com/wu2025814/RSG-RFR-JRS"
+repository-code: "https://github.com/wu2025814/RSG-RFR-JRS"
+version: "rsg_rfr_jrs1"
