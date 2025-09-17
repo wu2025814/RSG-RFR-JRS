@@ -6,9 +6,9 @@ authors:
   - given-names: "Zhongqiang"
     family-names: "Wu"
     email: "wuzhongqiang2008@qq.com"
-    affiliation: ""Hainan Normal University""
+    affiliation: "Hainan Normal University"
 identifiers:
   - type: url
     value: "https://github.com/wu2025814/RSG-RFR-JRS"
 repository-code: "https://github.com/wu2025814/RSG-RFR-JRS"
-version: "rsg_rfr_jrs1"
+version: "1.0.0"
